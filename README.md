@@ -1,28 +1,25 @@
 
-<div align="center">
-    
-  ## 🚀 About Me  
+
+
+### 🚀 About Me  
+<br />
+
   🎓 **인천전자마이스터고등학교** (2018.03 ~ 2021.01)  
   🏢 **앰코테크놀로지코리아 - 제조직** (2020.10 ~ 2021.06)  
   📚 **한국소프트웨어인재개발원** (2021.08 ~ 2022.02)  
   🏢 **인실리코젠 - SI개발** (2022.03 ~ ing)  
+  🏫 **학점은행제 진행 중** (2025.02 ~) 
 
-</div>
 
----
+ ---
 
-<div align="center">
-    
-  ## 📊 GitHub Stats  
-  <img src="https://github-readme-stats.vercel.app/api?username=ko6dong&show_icons=true&theme=transparent" alt="GitHub Stats">
+### STACK 📚   
+<br />
 
-</div>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ko6dong&show_icons=true&theme=transparent" alt="GitHub Stats">
 
----
-
-<div align="center">
-    
-  ## 🛠 Tech Stack  
+  🛠 **Tech Stack**
+ 
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -43,9 +40,14 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white"/>
-  <br/>
 
-  🧑‍💻 **Currently Learning**  
+ <br />
+ <br />
+
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ko6dong&layout=compact&theme=transparent&langs_count=8"/>
+
+ 🧑‍💻 **Currently Learning**  
+<br />
  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
@@ -63,27 +65,16 @@
 </div>
 
 ---
-
-<div align="center">
     
-  ## 🏆 Most Used Languages  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ko6dong&layout=compact&theme=transparent&langs_count=8"/>
+  ### 🎯 Goals   
+  🏫 **한국방송통신대학교 3학년 편입**  
+  💻 **개발자 플랫폼 사이드 프로젝트 진행**  
+  🚀 **서비스 상업화 가능성 검토 및 노력**  
 
-</div>
 
----
+<br/>
+<br/>
 
-<div align="center">
-    
-  ## 🎯 Goals  
-  🎓 **학점은행제 진행 중** (2025.02 ~)  
-  📚 **한국방송통신대학교 3학년 편입 준비 중**  
-  💻 **개발자 플랫폼 사이드 프로젝트 진행 중**  
-  🚀 **서비스 상업화 가능성 검토 및 노력 중**  
-
-</div>
-
----
 
 <div align="center">
   <strong>Thanks for visiting! 🚀</strong>  
