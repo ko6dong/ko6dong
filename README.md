@@ -27,12 +27,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
-<div style="display: flex; justify-content: center; gap: 80px;">
 
   <div align="center">
     
@@ -47,28 +42,30 @@ Here are some ideas to get you started:
 
   </div>
 
-  <div align="center">
-    
-  ### 📊 GitHub Stats  
-  <img src="https://github-readme-stats.vercel.app/api?username=ko6dong&show_icons=true&theme=transparent" alt="GitHub Stats">
-
-  </div>
-
-</div>
-
-<br/>
 <br/>
 
 ---
 
 <br/>
+
+  <div align="center">
+    
+  ### 📊 GitHub Stats  
+<br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ko6dong&show_icons=true&theme=transparent" alt="GitHub Stats">
+
+  </div>
+
 <br/>
 
-<div style="display: flex; justify-content: center; gap: 65px;">
+---
+
+<br/>
 
   <div align="center">
     
   ### MAIN STACK 🛠️  
+<br/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -92,9 +89,16 @@ Here are some ideas to get you started:
 
   </div>
 
+<br/>
+
+---
+
+<br/>
+
   <div align="center">
     
   ### LEARNING STACK 📚  
+<br/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
@@ -111,48 +115,39 @@ Here are some ideas to get you started:
     
   </div>
 
-</div>
-
-<br/>
 <br/>
 
 ---
 
 <br/>
-<br/>
-
-<div style="display: flex; justify-content: center; gap: 100px;">
 
   <div align="center">
     
   ### MOST USED LANGUAGES 🏆  
+<br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ko6dong&layout=compact&theme=transparent&langs_count=8"/>
     
   </div>
+<br/>
+
+---
+<br/>
 
   <div align="center">
     
   ### 🎯 목표  
-
-   <div align="left">
-    <sub><strong>📚 학점은행제 진행 중<sub> (2025.02 ~)</sub></strong></sub><br/>  
-    <sub><strong>🎓 한국방송통신대학교 3학년 편입 준비 중</strong></sub> <br/> 
-    <sub><strong>💻 개발자 플랫폼 사이드 프로젝트 진행 중</strong></sub> <br/>  
-    <sub><strong>🚀 서비스 상업화 가능성 검토 및 노력 중</strong></sub>  
-  </div>
+<br/>
+  <sub>📚 학점은행제 진행 중<sub> (2025.02 ~)</sub></sub><br/>
+  <sub>🎓 한국방송통신대학교 3학년 편입 준비 중</sub><br/>
+  <sub>💻 개발자 플랫폼 사이드 프로젝트 진행 중</sub><br/>
+  <sub>🚀 서비스 상업화 가능성 검토 및 노력 중</sub>  
 
 </div>
 
 
-</div>
+<br/>
+<br/>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 <div align="center">
   <strong>Thanks for visiting! 🚀</strong>  
