@@ -17,28 +17,35 @@ Here are some ideas to get you started:
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ko6dong&layout=compact) -->
 
-# 👋 안녕하세요! 저는 [당신의 이름]입니다!
+👋 환영합니다!
+
+🌟 저는 이은혜이고, 2002년 8월 7일 생입니다.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile-link)
 [![Gmail Badge](https://img.shields.io/badge/Email-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
-### 🔭 현재 진행 중인 프로젝트
-- [프로젝트 1](링크) - 프로젝트 설명
-- [프로젝트 2](링크) - 프로젝트 설명
+## 🎓 학력
+- **인천전자마이스터고등학교** - 전자제어과 졸업 (2021.01)
 
-### 🌱 배우고 있는 것들
-- Python
-- React
-- AWS
+## 🎓 교육 이수
+- **한국소프트웨어인재개발원** - 자바 풀스택 과정 수료 (2021.08 ~ 2022.02)
 
-### 💬 나와 소통할 수 있는 방법
-- [Twitter](https://twitter.com/your_profile)
-- [Discord](https://discord.com/users/your_user_id)
+## 💼 경력
+- **앰코테크놀로지코리아** - (2020.10 ~ 2021.06)
+- **(주)인실리코젠** - (2022.03 ~ 현재)
 
-### 🧑‍💻 기술 스택
-- **Languages**: Python, JavaScript, HTML/CSS
-- **Frameworks**: React, Node.js
-- **Tools**: Git, Docker, AWS
+## 🎯 목표
+- 학점은행제 진행 중 (2025.02 ~)
+- 한국방송통신대학교 3학년 편입 준비 중
 
-### 📊 GitHub 통계
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+## 🧑‍💻 기술 스택
+- **Languages**: Java, JavaScript, HTML, CSS, jQuery
+- **Frameworks**: JSP, Spring Framework, eGov Framework, MyBatis
+- **Databases**: RDBMS (MySQL, PostgreSQL 등)
+- **Tools**: Docker, Jenkins, Server
+- **Version Control**: Git
+
+## 📚 공부 중인 기술 스택
+- **React**, **TypeScript**, **Spring Boot**
+- **NoSQL** (MongoDB 등)
+- **Kubernetes**, **DevOps**
