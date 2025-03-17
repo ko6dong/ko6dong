@@ -1,3 +1,4 @@
+<!--
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ko6dong&show_icons=true&theme=transparent" alt="GitHub Stats">
 
 ### 🚀 About Me  
@@ -11,13 +12,12 @@
 
 <br />
 
-
+-->
 ### STACK 📚   
 <br />
- <div align="center">
 
 🛠 **Tech Stack**
- 
+ <br />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -38,12 +38,12 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white"/>
-</div>
  <br />
  <br />
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ko6dong&layout=compact&theme=transparent&langs_count=8"/>
-
+<!--
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ko6dong&layout=compact&theme=transparent&langs_count=8"/>
+-->
  🧑‍💻 **Currently Learning**  
 <br />
  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
@@ -63,13 +63,13 @@
 </div>
 
 <br />
-    
+<!--    
   ### 🎯 Goals   
   🏫 **한국방송통신대학교 3학년 편입**  
   💻 **개발자 플랫폼 사이드 프로젝트 진행**  
   🚀 **서비스 상업화 가능성 검토 및 노력**  
 
-
+-->
 <br/>
 <br/>
 
