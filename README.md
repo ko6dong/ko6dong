@@ -17,10 +17,7 @@ Here are some ideas to get you started:
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ko6dong&layout=compact) -->
 
-🌟 안녕하세요, 저는 이은혜이고, 2002년 8월 7일 생입니다.
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile-link)
-[![Gmail Badge](https://img.shields.io/badge/Email-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+## 🌟 안녕하세요, 저는 이은혜이고, 2002년 8월 7일 생입니다.
 
 ## 🎓 학력
 - **인천전자마이스터고등학교** - 전자제어과 졸업 (2021.01)
@@ -31,6 +28,7 @@ Here are some ideas to get you started:
 ## 💼 경력
 - **앰코테크놀로지코리아** - (2020.10 ~ 2021.06)
 - **(주)인실리코젠** - (2022.03 ~ 현재)
+  - **공공기관 SI 개발**
 
 ## 🎯 목표
 - 학점은행제 진행 중 (2025.02 ~)
