@@ -47,6 +47,25 @@ Here are some ideas to get you started:
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org)  
 [![RDBMS](https://img.shields.io/badge/RDBMS-FF6F00?style=flat&logo=databricks&logoColor=white)](#)  
 
+## 🧑‍💻 기술 스택  
+
+<p align="center">
+  <a href="https://www.java.com"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"></a>
+  <a href="https://www.javascript.com"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"></a>
+  <a href="https://jquery.com"><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white"></a>
+  <a href="https://spring.io"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"></a>
+  <a href="https://mybatis.org"><img src="https://img.shields.io/badge/MyBatis-1B1B1B?style=flat&logo=mybatis&logoColor=white"></a>
+  <a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"></a>
+  <a href="https://www.jenkins.io"><img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"></a>
+  <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"></a>
+  <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/RDBMS-FF6F00?style=flat&logo=databricks&logoColor=white"></a>
+</p>
+
+
 ## 📚 공부 중인 기술 스택
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
