@@ -115,41 +115,37 @@ Here are some ideas to get you started:
 
 <br/>
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  
-  <div style="text-align: center; width: 48%;">
+<table>
+  <tr>
+    <td align="center" width="50%">
+      
+      ### MAIN STACK 🛠️  
+      <br/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+      <br>
+      <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JSP-FF9800?style=for-the-badge&logo=java&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+      
+    </td>
     
-  ### MAIN STACK 🛠️  
-  <br/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <br>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JSP-FF9800?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/Spring Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/eGovFramework-008ACD?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MyBatis-DC382D?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-  
-  </div>
-
-  <div style="text-align: center; width: 48%;">
-    
-  ### LEARNING STACK 📚  
-  <br/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/NoSQL-0052CC?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  
-  </div>
-
-</div>
+    <td align="center" width="50%">
+      
+      ### LEARNING STACK 📚  
+      <br/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+      <br>
+      <img src="https://img.shields.io/badge/NoSQL-0052CC?style=for-the-badge&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+      
+    </td>
+  </tr>
+</table>
 
 
 ---
