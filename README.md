@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ko6dong&layout=compact) -->
 
-## 🌟 안녕하세요, 저는 이은혜이고, 2002년 8월 7일 생입니다.
-
 ## 🎓 학력
 - **인천전자마이스터고등학교** - 전자제어과 졸업 (2021.01)
 
