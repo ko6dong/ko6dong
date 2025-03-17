@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 <div align="left">
   
-<sub>**☁️ 9roomthon Training Full-Stack Developer ☁️**</sub> <sub><sub>(2023.11.10 ~ 2024.02.29)</sub></sub> <br />
-<sub>**☀️ GIS Company Internship ☀️**</sub> <sub><sub>(2024.07.22 ~ 2025.02.28)</sub></sub><br />
-<sub>**☀️ GIS Company Full-Stack Developer ☀️**</sub> <sub><sub>(2025.03.01 ~ ing)</sub></sub>
+
 
 </div>
 
@@ -27,8 +25,7 @@ Here are some ideas to get you started:
 
 <br />
 
-<!-- GitHub Most Used Languages -->
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ko6dong&theme=transparent&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+
 
 <div align="left">
 
@@ -62,4 +59,9 @@ Here are some ideas to get you started:
 - **사이드 프로젝트 진행** (React + Spring + NoSQL)
 - **클라우드 환경 이전 준비** (온프레미스 → 클라우드)
 - **기관 자체 GitLab 운영 고려 중**
+
+---
+
+<!-- GitHub Most Used Languages -->
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ko6dong&theme=transparent&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
 </div>
