@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 <!-- 상단 꾸밈 -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74290208/134815803-53aeb450-0c02-4fd1-81e3-4df949b79ee8.gif" width="500px">
-  <br>
   <strong><span style="background: linear-gradient(to right, #ff8c00, #ff0080); -webkit-background-clip: text; color: transparent;">
     Welcome to ko6dong's GitHub!
   </span></strong>
