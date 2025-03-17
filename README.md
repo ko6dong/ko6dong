@@ -1,5 +1,4 @@
-
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ko6dong&show_icons=true&theme=transparent" alt="GitHub Stats">
 
 ### 🚀 About Me  
 <br />
@@ -15,8 +14,6 @@
 
 ### STACK 📚   
 <br />
-
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ko6dong&show_icons=true&theme=transparent" alt="GitHub Stats">
 
   🛠 **Tech Stack**
  
