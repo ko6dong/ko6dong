@@ -63,3 +63,64 @@ Here are some ideas to get you started:
 ## 📫 Contact
 - GitHub: [ko6dong](https://github.com/ko6dong)
 
+## 👋 소개
+
+안녕하세요! 백엔드 및 웹 개발을 주로 다루는 개발자입니다. 새로운 기술을 배우고, 더 나은 서비스를 만들기 위해 노력하고 있습니다.
+
+### 🎓 학력
+- **인천전자마이스터고등학교** - 전자제어과 졸업 (2021.01)
+
+### 💼 경력
+- **앰코테크놀로지코리아** - (2020.10 ~ 2021.06)
+- **(주)인실리코젠** - (2022.03 ~ 현재)
+  - **공공기관 SI 개발**
+
+### 📖 교육 이수
+- **한국소프트웨어인재개발원** - 자바 풀스택 과정 수료 (2021.08 ~ 2022.02)
+
+---
+
+<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api?username=ko6dong&show_icons=true&theme=radical" height="180px"/></a>
+
+---
+
+## 🧑‍💻 기술 스택 (업무에서 사용하는 기술)
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/MyBatis-1B1B1B?style=flat&logo=mybatis&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/RDBMS-FF6F00?style=flat&logo=databricks&logoColor=white">
+</p>
+
+---
+
+<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ko6dong&layout=compact&theme=radical" height="180px"/></a>
+
+## 📚 공부 중인 기술 스택
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/DevOps-0075A8?style=flat&logo=devops&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-D92C3F?style=flat&logo=redis&logoColor=white">
+</p>
+
+---
+
+## 🎯 목표
+- 학점은행제 진행 중 (2025.02 ~)
+- 한국방송통신대학교 3학년 편입 준비 중
+- 사이드 프로젝트 진행 (React + TypeScript, Spring, NoSQL 활용)
+- 클라우드 기술 학습 및 적용
+
